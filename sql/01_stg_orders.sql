@@ -1,3 +1,5 @@
+-- Layer: Staging
+-- Source: Raw transactional data
 -- Create staging table for orders
 -- This table stores raw order-level transactional data
 
