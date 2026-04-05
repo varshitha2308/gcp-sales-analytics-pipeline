@@ -8,6 +8,16 @@ The pipeline transforms raw transactional data into a structured **data warehous
 
 ---
 
+## ⭐ Project Highlights
+
+- Designed and implemented an end-to-end data pipeline using BigQuery  
+- Built a scalable **Star Schema** with fact and dimension tables  
+- Performed data transformation and aggregation using SQL  
+- Generated actionable business insights through analytical queries  
+- Structured project using best practices for version control and modular SQL
+
+---
+
 ## 🏗️ Architecture Overview
 
 ```mermaid
@@ -121,6 +131,18 @@ Evaluates revenue distribution across product categories.
 1. Create a dataset in BigQuery
 2. Execute SQL scripts in the `sql/` folder sequentially
 3. Run analytical queries from the `queries/` folder
+
+---
+## 📸 Sample Output
+
+### Revenue by Country
+
+| Country  | Total Revenue |
+|----------|--------------|
+| USA      | 1200         |
+| Germany  | 2400         |
+| India    | 2000         |
+| UK       | 800          |
 
 ---
 
