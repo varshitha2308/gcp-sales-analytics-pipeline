@@ -1,4 +1,4 @@
-# 🚀 GCP Sales Analytics Data Pipeline
+# GCP Sales Analytics Data Pipeline
 
 ## 📌 Project Overview
 
@@ -144,4 +144,4 @@ Evaluates revenue distribution across product categories.
 
 ## 👩‍💻 Author
 Varshitha Reddy
-Data Engineer
+(Data Engineer).
